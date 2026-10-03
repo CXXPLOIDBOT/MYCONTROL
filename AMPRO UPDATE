@@ -15,7 +15,7 @@
 
   "XDownload_Link": "ggg",
 
-  "skipVerifyUrl": "https://raw.githubusercontent.com/satriyaid705/MYBACKUP/refs/heads/main/VIP%20BACKUP",
+  "skipVerifyUrl": "https://raw.githubusercontent.com/CXXPLOIDBOT/MYCONTROL/main/VIP%20BACKUP",
   "isExpiredActive": false,
   "skipAuthFailedToast": "You are not a SVIP Supporter, DM Modder for more information 😇",
   "visitUrl": "https://app.simplenote.com/p/9rRT9b",
@@ -70,7 +70,7 @@
   "Side_Menu_Background_Color": "#DD222222",
   "Side_Menu_Pressed_Color": "#55AAAAAA",
   "DM_Admin_Text": "DM Admin",
-  "DM_Admin_Link": "https://telegram.me/DonateAMZ",
+  "DM_Admin_Link": "https://t.me/HiruDev",
   "Copy_Device_ID_Text": "Copy Device ID",
 
   "SpecialLink": {
