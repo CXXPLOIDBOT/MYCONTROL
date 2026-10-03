@@ -2,7 +2,7 @@
   "DialogShow": true,
   "Dialog_Title": " Update Available \n(14.1.0 7SEP) ",
   "New_Version": "14.1.0",
-  "Download_Link": "https://justpaste.it/dhxth",
+  "Download_Link": "https://t.me/HiruuNetzi",
 
   "isCancelable": true,
   "Show_Direct_Link_Button": true,
@@ -32,7 +32,7 @@
   "EXP_Bypass_Success_Toast": "Bypass Expired Dialog Successful",
   "EXP_Dialog_Width": 360,
   "EXP_Dialog_Height": 360,
-  "EXP_DM_Admin_Link": "https://t.me/HiruDev?text=Hi, I want to use REPLACE_WITH_YOUR_PAYMENT_METHOD to sign up as a VIP Member",
+  "EXP_DM_Admin_Link": "https://t.me/HiruuNetzi?text=Hi, I want to use REPLACE_WITH_YOUR_PAYMENT_METHOD to sign up as a VIP Member",
   "EXP_message": "Hello User 😊 Sorry but<br>You need to <b>UPDATE</b> this Apps </br><br><b>VISIT LINK</b> Then follow the Instructions.<br><font color=#00A8FF><u><a href=https://t.me/hiddenxproject/53>Watch Tutorial Update Here</a></u></font>",
   "EXP_Hold_Button_Instruction": "<br>Update <b>DOESNT</b> Delete Any Data or Project<br>Make sure you Download from Modder Link Above",
 
@@ -80,7 +80,7 @@
   "Direct_Button_Name_4": "CLONE PKG and DARK THEME",
   "Direct_Link_4": "ggg",
 
-  "DM_Admin_Link": "https://t.me/HiruDev?text=Hi, I want to use REPLACE_WITH_YOUR_PAYMENT_METHOD to sign up as a VIP member",
+  "DM_Admin_Link": "https://t.me/HiruuNetzi?text=Hi, I want to use REPLACE_WITH_YOUR_PAYMENT_METHOD to sign up as a VIP member",
 
   "Settings_Button_Emoji": "⚙️",
   "DM_Admin_Text": "DM Admin",
