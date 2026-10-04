@@ -90,7 +90,7 @@
   "btn_close": "     CLOSE (%ss)     ",
   "btn_close2": "      CLOSE      ",
   "btn_showing_again": "Showing Dialog Again",
-  "show_iv_btn": true,
+  "show_iv_btn": false,
   "btn_iv_text": "IMPORT & VERIFY",
   "btn_iv_color": "#00ffa8",
   "btn_iv_txt_color": "#333333",
