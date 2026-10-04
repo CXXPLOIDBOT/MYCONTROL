@@ -1,7 +1,6 @@
 {
-  "EnableSessionKey": "1",
+  "EnableSessionKey": "0",
   "SessionKey": "1234",
-
   "SessionKeyLink": "https://app.simplenote.com/p/kzFNb3",
   "LabelSessionKeyHint": "PASTE HERE",
   "LabelVerifySession": "VERIFY",
